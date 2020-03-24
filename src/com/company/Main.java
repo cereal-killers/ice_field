@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello világ");
         System.out.println("Hello világ");
         System.out.println("Hello világ");
+        System.out.println("AAAAAA");
     }
 }
